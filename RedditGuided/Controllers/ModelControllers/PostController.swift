@@ -12,7 +12,7 @@ struct StringConstants {
     fileprivate static let baseURL = "https://www.reddit.com"
     fileprivate static let rEndpoint = "r"
     fileprivate static let funnyEndpoint = "funny"
-    fileprivate static let jsonExtension = "json"
+    fileprivate static let jsonExtension = ".json"
 }
 
 class PostController {
